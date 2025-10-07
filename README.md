@@ -76,4 +76,4 @@ Seu navegador será aberto automaticamente no endereço local onde a aplicação
 
 ## ✒️ Autor
 
-* **[Guilherme Irving Trama]** - [linkedin](https://www.linkedin.com/in/guilhermetrama/)
+* **[Guilherme Irving Trama]** - <a href="https://www.linkedin.com/in/guilhermetrama/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
