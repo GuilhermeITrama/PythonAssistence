@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-00C65E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAyMS42QzYuNzAzIDIxLjYgMi40IDE3LjI5NyAyLjQgMTJTNi43MDMgMi40IDEyIDIuNCAxNy4yOTcgNi43MDMgMjEuNiAxMiAyMS42IDE3LjI5NyAxMiAyMS42ek0xMiA0LjhjLTMuOTcgMC03LjIgMy4yMy03LjIgNy4yIDAgMy45NyAzLjIzIDcuMiA3LjIgNy4yIDMuOTcgMCA3LjItMy4yMyA3LjItNy4yIDAtMy45Ny0zLjIzLTcuMi03LjItNy4yek0xMiAxNi44Yy0yLjY1MiAwLTQuOC0yLjE0OC00LjgtNC44cyAyLjE0OC00LjggNC44LTQuOCA0LjggMi4xNDggNC44IDQuOC0yLjE0OCA0LjgtNC44IDQuOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)
 
-Breve descrição do seu projeto. Explique o que a aplicação faz, qual problema ela resolve e qual seu principal objetivo. Por exemplo: *"Este é um assistente de conversação inteligente que utiliza a velocidade da LPU (Language Processing Unit) da Groq para fornecer respostas rápidas e precisas em Python."*
+PYTHON AI Coder é um assistente de programação inteligente, construído com Streamlit e alimentado pela API da Groq. Projetado para ajudar desenvolvedores iniciantes, ele responde a perguntas sobre a linguagem Python, fornecendo explicações claras, exemplos de código comentados e links para a documentação oficial.
 
 ## ⚙️ Tecnologias Utilizadas
 
