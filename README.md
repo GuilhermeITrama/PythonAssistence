@@ -34,7 +34,7 @@ Siga os passos abaixo para configurar e rodar a aplicação localmente.
 **1. Clone o Repositório**
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [https://github.com/GuilhermeITrama/PythonAssistence.git](https://github.com/GuilhermeITrama/PythonAssistence.git)
 cd seu-repositorio
 ```
 
