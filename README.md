@@ -76,4 +76,4 @@ Seu navegador será aberto automaticamente no endereço local onde a aplicação
 
 ## ✒️ Autor
 
-* **[Guilherme Irving Trama]** - [seu-linkedin](https://www.linkedin.com/in/guilhermetrama/) | [seu-github](https://github.com/GuilhermeITrama/)
+* **[Guilherme Irving Trama]** - [linkedin](https://www.linkedin.com/in/guilhermetrama/)
